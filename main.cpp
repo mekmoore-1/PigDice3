@@ -19,7 +19,7 @@ int main()
     // Moves past the newline after entering the player count
     std::cin.get();
 
-    // Create and start the multiplayer game
+     //Create and start the multiplayer game
     Multiplayer myGame(numberOfPlayers);
     myGame.mpPlayGame();
 

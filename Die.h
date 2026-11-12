@@ -1,3 +1,4 @@
+//Mekhi
 #ifndef PIGDICE3_DIE_H
 #define PIGDICE3_DIE_H
 
