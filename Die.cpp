@@ -1,3 +1,4 @@
+//Mekhi
 #include "Die.h"
 
 //  six side die and initializes the random generator
